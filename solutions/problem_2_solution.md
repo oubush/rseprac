@@ -31,4 +31,4 @@ Note that if there are no files with values greater than 100, the result will be
 
 It was found that the file `values44` contains only 99 values.
 
-The results of the problem_2 solution can be found in the [problem_2_results](/problem_2_results) directory.
+The results of the problem_2 solution can be found in the [problem_2_results](./problem_2_results) directory.
