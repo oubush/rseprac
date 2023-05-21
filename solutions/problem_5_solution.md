@@ -25,7 +25,7 @@ In the script fragment above:
 
 (i) The content of the `fname_out` variable is a string representing the file name of the PNG image that will be created. It is constructed using various variables and strings concatenated together.  
 
-The format of `fname_out` is: `"{Home}{VarName}{TimeStamp}_{Frame}.png"`
+The format of `fname_out` is: `"{Home}Ozone_2001-01-01_{Frame}.png"`
 
 (ii) In the provided script fragment, the values of th `Home` and `simhour` variables are not shown. 
 
