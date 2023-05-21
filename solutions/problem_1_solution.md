@@ -48,4 +48,4 @@ A `for` loop allows you to iterate over each file in the directory.
 
 `${filename%.*}` extracts the base filename (without the extension).
 
-The results of the problem_1 solution can be found in the [problem_1_results](/problem_1_results) directory.
+The results of the problem_1 solution can be found in the [problem_1_results](./problem_1_results) directory.
